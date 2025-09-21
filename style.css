@@ -25,7 +25,7 @@ body {
     background-color: var(--cor-fundo-principal);
     color: var(--cor-texto-principal);
     line-height: 1.6;
-    background-image: url('https://i.imgur.com/p1z5vI7.png'); /* Sua imagem de background */
+    background-image: url('imgs/background.svg'); /* Sua imagem de background */
     background-size: cover; /* Cobre todo o elemento */
     background-attachment: fixed; /* Fixa o background enquanto o conteúdo rola */
     background-position: center center; /* Centraliza a imagem */
@@ -98,14 +98,14 @@ body {
 .logo {
     display: flex;
     align-items: center;
-    font-size: 1.6em;
+    height: 30px;
     font-weight: bold;
     color: var(--cor-destaque-dourado);
 }
 
 .logo img {
-    height: 40px; /* Ajuste o tamanho da sua logo */
-    margin-right: 10px;
+    height: 100px; /* Ajuste o tamanho da sua logo */
+    margin-right: 5px;
     filter: brightness(1.2); /* Deixa a logo mais viva sobre o fundo escuro */
 }
 

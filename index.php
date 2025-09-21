@@ -13,7 +13,7 @@
     <header class="main-header">
         <div class="container header-content">
             <div class="logo">
-                <img src="https://i.imgur.com/G4P4Q0t.png" alt="Sea Gold Logo"> <span>[Seu Nome/Empresa]</span>
+                <img src="imgs/logo.gif" alt="Sea Gold Logo">
             </div>
             <nav class="main-nav">
                 <ul>
