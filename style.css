@@ -175,7 +175,7 @@ body {
 
 .hero-content h1 {
     font-size: 4em;
-    color: var(--cor-destaque-dourado);
+    color: rgb(211, 175, 55);
     margin-bottom: 20px;
     line-height: 1.1;
     font-weight: 800;
